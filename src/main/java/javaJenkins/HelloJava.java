@@ -8,5 +8,8 @@ public class HelloJava {
 		System.out.println("branch 2");
 
 	}
+	public static String msg() {
+		return "Hello";
+	}
 
 }
