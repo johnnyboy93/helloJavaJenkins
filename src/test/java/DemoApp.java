@@ -1,4 +1,4 @@
-package javaJenkins;
+
 
 import static org.junit.Assert.*;
 
